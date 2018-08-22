@@ -1,0 +1,18 @@
+{
+  "name": "tallerwebdriver.io",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webdriverio": "^4.13.2"
+  },
+  "devDependencies": {
+    "wdio-dot-reporter": "0.0.10",
+    "wdio-jasmine-framework": "^0.3.5",
+    "wdio-selenium-standalone-service": "0.0.10"
+  }
+}
